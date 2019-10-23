@@ -1,0 +1,46 @@
+Enter a lab name (1-5) or another key to quit1
+no
+yes
+aplus
+aplus
+no
+yes
+no
+yes
+yes
+Enter a lab name (1-5) or another key to quit2
+10
+10
+400
+100
+1
+1
+2.6
+1.4000000000000004
+55019
+Enter a lab name (1-5) or another key to quit3
+Enter a year :: 2004
+True
+Enter a lab name (1-5) or another key to quit3
+Enter a year :: 2000
+False
+Enter a lab name (1-5) or another key to quit4
+-11
+180
+2411.111111111111
+3444.4444444444443
+10376.666666666666
+2223.3333333333335
+Enter a lab name (1-5) or another key to quit5
+True
+False
+True
+False
+True
+False
+True
+False
+Enter a lab name (1-5) or another key to quitexit
+exiting...
+
+Process finished with exit code 0
